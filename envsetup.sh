@@ -1721,4 +1721,4 @@ function fixup_common_out_dir() {
     fi
 }
 
-bash $ANDROID_BUILD_TOP/packages/apps/DuckDuckGo/DuckDuckGo.sh
+# bash $ANDROID_BUILD_TOP/packages/apps/DuckDuckGo/DuckDuckGo.sh
